@@ -11,14 +11,26 @@ Student or Admin cannot register with mobile number that already present in data
 <h6>3.Student Login:</h6> Student can login with there credentials.(mobile number , username , password)
 <h6>4.Admin Login:</h6> Admin can login with there credentials.(mobile number, username, password)
 
-<h3>When User Login as Student</h3>
+<h4>5.When User Login as Student</h4>
 <h6>Start Quiz:</h6> Student can attempt quiz and store result.
 <h6>display Result:</h6> Student can see the result of last attempted quiz whenever he want.
 
-<h3>When User Login as Admin</h3>
+<h4>6.When User Login as Admin</h4>
 <h6>Display all students score in Order:</h6> Admin can see all Students score in any order(ascending or descending).
 <h6>Fetch student score by using id:</h6> Admin can fetch score of any student by using student id.
 <h6>Add question with 4 options into database:</h6> Admin can add question in Quiz with 4 options.
 <h6>Get student Name:</h6> Admin can fetch student full name and id using this option.
 
+
+<h3>Technologies Used</h3>
+
+<h6>1.Core Java:</h6> Application logic and functionalities.
+<h6>2.JDBC (Java Database Connectivity):</h6> Connecting and interacting with the MySQL database.
+<h6>3.MySQL Database:</h6> Storing student data, quiz questions, and quiz results.
+
+<h3>Prerequisites</h3>
+
+<h6>1.JDK 8 or higher</h6>
+<h6>2.MySQL installed and running</h6>
+<h6>3.JDBC Driver (MySQL Connector)</h6>
 
