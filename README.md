@@ -11,15 +11,15 @@ Student or Admin cannot register with mobile number that already present in data
 <h6>3.Student Login:</h6> Student can login with there credentials.(mobile number , username , password)
 <h6>4.Admin Login:</h6> Admin can login with there credentials.(mobile number, username, password)
 
-<h4>5.When User Login as Student</h4>
-<h6>Start Quiz:</h6> Student can attempt quiz and store result.
-<h6>display Result:</h6> Student can see the result of last attempted quiz whenever he want.
+<h6>When User Login as Student</h6>
+<h6>5.Start Quiz:</h6> Student can attempt quiz and store result.
+<h6>6.display Result:</h6> Student can see the result of last attempted quiz whenever he want.
 
-<h4>6.When User Login as Admin</h4>
-<h6>Display all students score in Order:</h6> Admin can see all Students score in any order(ascending or descending).
-<h6>Fetch student score by using id:</h6> Admin can fetch score of any student by using student id.
-<h6>Add question with 4 options into database:</h6> Admin can add question in Quiz with 4 options.
-<h6>Get student Name:</h6> Admin can fetch student full name and id using this option.
+<h6>When User Login as Admin</h6>
+<h6>7.Display all students score in Order:</h6> Admin can see all Students score in any order(ascending or descending).
+<h6>8.Fetch student score by using id:</h6> Admin can fetch score of any student by using student id.
+<h6>9.Add question with 4 options into database:</h6> Admin can add question in Quiz with 4 options.
+<h6>10.Get student Name:</h6> Admin can fetch student full name and id using this option.
 
 
 <h3>Technologies Used</h3>
