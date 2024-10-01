@@ -1,5 +1,6 @@
 
 
+//this is main c
 package com.quizapplication.mainclass;
 
 import java.sql.SQLException;
