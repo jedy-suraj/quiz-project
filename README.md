@@ -1,3 +1,24 @@
 # Console-Based Quiz Application
 
-<p>This is a console-based Quiz Application developed using Core Java, JDBC, and a MySQL database. The application allows students to register, login, take quizzes, and view their results.</p>
+<p>This is a console-based Quiz Application developed using Core Java, JDBC, and a MySQL database.<br>
+  The application allows students to register, login, take quizzes, and view their results.</p>
+
+<h3>Features</h3> 
+
+<h6>1.User Registration:</h6> User can create account as student or as admin. <br>
+Student or Admin cannot register with mobile number that already present in data base(Admin need a keycode to register as admin)
+<h6>2.User Login:</h6> User can login as student or as admin. 
+<h6>3.Student Login:</h6> Student can login with there credentials.(mobile number , username , password)
+<h6>4.Admin Login:</h6> Admin can login with there credentials.(mobile number, username, password)
+
+<h3>When User Login as Student</h3>
+<h6>Start Quiz:</h6> Student can attempt quiz and store result.
+<h6>display Result:</h6> Student can see the result of last attempted quiz whenever he want.
+
+<h3>When User Login as Admin</h3>
+<h6>Display all students score in Order:</h6> Admin can see all Students score in any order(ascending or descending).
+<h6>Fetch student score by using id:</h6> Admin can fetch score of any student by using student id.
+<h6>Add question with 4 options into database:</h6> Admin can add question in Quiz with 4 options.
+<h6>Get student Name:</h6> Admin can fetch student full name and id using this option.
+
+
