@@ -4,8 +4,6 @@
   The application allows students to register, login, take quizzes, and view their results.</p>
 <br>
 <br>
-<br>
-<br>
 
 <h3>Features</h3> 
 
