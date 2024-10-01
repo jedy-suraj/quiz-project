@@ -13,7 +13,7 @@ Student or Admin cannot register with mobile number that already present in data
 3.Student Login: Student can login with there credentials.(mobile number , username , password)<br><br>
 4.Admin Login: Admin can login with there credentials.(mobile number, username, password)<br>
 
-When User Login as Student : <br><br>
+<p style="color: grey;> When User Login as Student :</p> <br><br>
 5.Start Quiz: Student can attempt quiz and store result.<br><br>
 6.display Result: Student can see the result of last attempted quiz whenever he want.<br>
 
