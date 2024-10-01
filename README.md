@@ -7,7 +7,7 @@
 <h3>Features</h3> 
 
 <h6>1.User Registration:</h6> User can create account as student or as admin. <br>
-Student or Admin cannot register with mobile number that already present in data base.
+Student or Admin cannot register with mobile number that already present in data base.<br>
 (Admin need a keycode to register as admin)
 <h6>2.User Login:</h6> User can login as student or as admin. 
 <h6>3.Student Login:</h6> Student can login with there credentials.(mobile number , username , password)
