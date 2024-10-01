@@ -1,5 +1,5 @@
 
-//This is main class
+//This is main class of this application
 package com.quizapplication.mainclass;
 
 import java.sql.SQLException;
