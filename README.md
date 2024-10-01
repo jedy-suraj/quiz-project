@@ -20,6 +20,10 @@ Student or Admin cannot register with mobile number that already present in data
 <h6>8.Fetch student score by using id:</h6> Admin can fetch score of any student by using student id.
 <h6>9.Add question with 4 options into database:</h6> Admin can add question in Quiz with 4 options.
 <h6>10.Get student Name:</h6> Admin can fetch student full name and id using this option.
+<br>
+<br>
+<br>
+<br>
 
 
 <h3>Technologies Used</h3>
@@ -27,7 +31,10 @@ Student or Admin cannot register with mobile number that already present in data
 <h6>1.Core Java:</h6> Application logic and functionalities.
 <h6>2.JDBC (Java Database Connectivity):</h6> Connecting and interacting with the MySQL database.
 <h6>3.MySQL Database:</h6> Storing student data, quiz questions, and quiz results.
-
+<br>
+<br>
+<br>
+<br>
 <h3>Prerequisites</h3>
 
 <h6>1.JDK 8 or higher</h6>
