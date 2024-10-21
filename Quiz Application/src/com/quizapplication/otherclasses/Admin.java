@@ -1,5 +1,3 @@
-//this is admin
-
 package com.quizapplication.otherclasses;
 
 import java.sql.Connection;
